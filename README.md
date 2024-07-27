@@ -2,5 +2,5 @@
 
 # URL
 
-[https://tallenpeli.github.io/tallens_website/]
+https://tallenpeli.github.io/home/
 
